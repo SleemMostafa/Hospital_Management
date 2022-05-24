@@ -10,30 +10,3 @@ API Hospital Mangment ,JWT authentication ,controller for admin and anther for u
   <li>Microsoft.EntityFrameworkCore.Tools</li>
   <li>Swashbuckle.AspNetCore</li>
 </ul>
-
-
-# Actions
-
-## For admin and user
-<ul>
-  <li>Register</li>
-  <li>Login</li> 
-  ## For admin only
-  <li>GetAllUsers</li> 
-  <li>AddRole</li>
-</ul>
-
-## Products action for user
-<ul>
-  <li>GetAll</li>
-  <li>GetProductById</li> 
-</ul>
-
-## Products action for admin
-<ul>
-  <li>GetAll</li>
-  <li>GetProductById</li> 
-  <li>Insert</li> 
-  <li>Update</li> 
-  <li>Delete</li> 
-</ul>
